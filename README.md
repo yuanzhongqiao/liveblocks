@@ -1,102 +1,71 @@
-<p align="center">
-  <a href="https://liveblocks.io#gh-light-mode-only">
-    <img src="https://raw.githubusercontent.com/liveblocks/liveblocks/main/.github/assets/header-wordmark-light.svg" alt="Liveblocks"   />
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+  <a href="https://liveblocks.io#gh-light-mode-only" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/liveblocks/liveblocks/main/.github/assets/header-wordmark-light.svg" alt="活块" style="max-width: 100%;">
   </a>
-  <a href="https://liveblocks.io#gh-dark-mode-only">
-    <img src="https://raw.githubusercontent.com/liveblocks/liveblocks/main/.github/assets/header-wordmark-dark.svg" alt="Liveblocks"   />
+  <a href="https://liveblocks.io#gh-dark-mode-only" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/liveblocks/liveblocks/main/.github/assets/header-wordmark-dark.svg" alt="Liveblocks" style="max-width: 100%;">
   </a>
 </p>
-<p align="center">
-  <a href="https://twitter.com/liveblocks">
-    <img src="https://img.shields.io/badge/liveblocks-message?style=flat&logo=x&color=555&logoColor=fff" alt="X" />
+<p align="center" dir="auto">
+  <a href="https://twitter.com/liveblocks" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/70cb9d9e1c5e497f3894b62632d83ccb1d7efea759b520eab4e8cf8ad9da3665/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c697665626c6f636b732d6d6573736167653f7374796c653d666c6174266c6f676f3d7826636f6c6f723d353535266c6f676f436f6c6f723d666666" alt="X" data-canonical-src="https://img.shields.io/badge/liveblocks-message?style=flat&amp;logo=x&amp;color=555&amp;logoColor=fff" style="max-width: 100%;">
   </a>
-  <a href="https://liveblocks.io/discord">
-    <img src="https://img.shields.io/discord/913109211746009108?style=flat&label=discord&logo=discord&color=85f&logoColor=fff" alt="Discord" />
+  <a href="https://liveblocks.io/discord" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/4f7df30dbb2c1e4c20ff1bd35c3fe4d81ad7662dc1fdb06846ec4ece16f0b5e1/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3931333130393231313734363030393130383f7374796c653d666c6174266c6162656c3d646973636f7264266c6f676f3d646973636f726426636f6c6f723d383566266c6f676f436f6c6f723d666666" alt="不和谐" data-canonical-src="https://img.shields.io/discord/913109211746009108?style=flat&amp;label=discord&amp;logo=discord&amp;color=85f&amp;logoColor=fff" style="max-width: 100%;">
   </a>
-    <a href="https://www.youtube.com/channel/UCDXT5skWxzOorIQrWG5OT2w">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCDXT5skWxzOorIQrWG5OT2w?style=flat&label=youtube&logo=youtube&color=e14&logoColor=fff" alt="YouTube" />
+    <a href="https://www.youtube.com/channel/UCDXT5skWxzOorIQrWG5OT2w" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/ebf552cf6801d771be134ba25be8a3faf861433de57483e0834c1228f4314cb4/68747470733a2f2f696d672e736869656c64732e696f2f796f75747562652f6368616e6e656c2f73756273637269626572732f554344585435736b57787a4f6f724951725747354f5432773f7374796c653d666c6174266c6162656c3d796f7574756265266c6f676f3d796f757475626526636f6c6f723d653134266c6f676f436f6c6f723d666666" alt="YouTube" data-canonical-src="https://img.shields.io/youtube/channel/subscribers/UCDXT5skWxzOorIQrWG5OT2w?style=flat&amp;label=youtube&amp;logo=youtube&amp;color=e14&amp;logoColor=fff" style="max-width: 100%;">
   </a>
   <a href="https://github.com/liveblocks/liveblocks/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/liveblocks/liveblocks?style=flat&label=license&logo=github&color=f80&logoColor=fff" alt="License" />
+    <img src="https://camo.githubusercontent.com/63022a72873e1336e787aca51e060334571b22cec7eab04abe789bdb82a461ce/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6c697665626c6f636b732f6c697665626c6f636b733f7374796c653d666c6174266c6162656c3d6c6963656e7365266c6f676f3d67697468756226636f6c6f723d663830266c6f676f436f6c6f723d666666" alt="执照" data-canonical-src="https://img.shields.io/github/license/liveblocks/liveblocks?style=flat&amp;label=license&amp;logo=github&amp;color=f80&amp;logoColor=fff" style="max-width: 100%;">
   </a>
 </p>
-
-**[Liveblocks](https://liveblocks.io) is a real-time collaboration
-infrastructure for building performant collaborative experiences.**
-
-<img src="./assets/concepts/platform.png" alt="Liveblocks"   />
-
-## How Liveblocks works
-
-The foundations of Liveblocks are built upon four core concepts: products,
-rooms, integrations, and platform.
-
-### Products
-
-Liveblocks is a fully integrated solution built around core products, each
-enabling a different facet of collaborative experiences:
-[Presence](https://liveblocks.io/docs/products/presence),
-[Broadcast](https://liveblocks.io/docs/products/broadcast),
-[Document](https://liveblocks.io/docs/products/document), and
-[Comments](https://liveblocks.io/docs/products/comments) (public beta). You can
-decide what products you want to use based on your requirements and
-collaborative experiences you’re looking to build.
-
-### Rooms
-
-A room is the digital space in which people collaborate. You can require your
-users to be [authenticated](https://liveblocks.io/docs/authentication) to
-interact with rooms, and each room can have specific permissions and
-[metadata](https://liveblocks.io/docs/rooms/metadata) associated with them.
-
-### Integrations
-
-Integrations for specific libraries and frameworks to add Liveblocks-powered
-collaborative experiences to your product. Integrations are designed to serve
-various collaboration use cases such as text editors, comments, creative tools,
-forms, and more.
-
-- [`@liveblocks/client`](https://liveblocks.io/docs/api-reference/liveblocks-client)
-- [`@liveblocks/react`](https://liveblocks.io/docs/api-reference/liveblocks-react)
-- [`@liveblocks/redux`](https://liveblocks.io/docs/api-reference/liveblocks-redux)
-- [`@liveblocks/zustand`](https://liveblocks.io/docs/api-reference/liveblocks-zustand)
-- [`@liveblocks/yjs`](https://liveblocks.io/docs/api-reference/liveblocks-yjs)
-
-### Platform
-
-Liveblocks provides a fully-hosted platform built around a WebSocket edge
-infrastructure that effortlessly scales to millions of users. The platform
-equips you with a set of powerful tools such as our
-[REST API](https://liveblocks.io/docs/api-reference/rest-api-endpoints),
-[webhooks](https://liveblocks.io/docs/platform/webhooks),
-[schema validation](https://liveblocks.io/docs/platform/schema-validation),
-analytics, and more.
-
-## Developers
-
-- [Documentation](https://liveblocks.io/docs) - [`/docs`](./docs)
-- [Guides](https://liveblocks.io/docs/guides) - [`/guides`](./guides)
-- [Tutorial](https://liveblocks.io/docs/tutorial/react/getting-started)
-  [`/tutorial`](./tutorial)
-- [Examples](https://liveblocks.io/examples) - [`/examples`](./examples)
-
-You can read our release notes
-[here](https://github.com/liveblocks/liveblocks/releases).
-
-## Community and support
-
-- [GitHub issues](https://github.com/liveblocks/liveblocks/issues) to file bugs
-  and errors you encounter using Liveblocks.
-- [Discord](https://liveblocks.io/discord) to get involved with the Liveblocks
-  community, ask questions and share tips.
-- [Email](https://liveblocks.io/contact) to contact us directly for support and
-  sales enquiries.
-- [X](https://x.com/liveblocks) to receive updates, announcements, blog posts,
-  and general Liveblocks tips.
-
-## License
-
-Licensed under the Apache License 2.0, Copyright © 2021-present
-[Liveblocks](https://liveblocks.io).
-
-See [LICENSE](./LICENSE) for more information.
+<p dir="auto"><strong><a href="https://liveblocks.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Liveblocks</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一个实时协作基础设施，用于构建高性能的协作体验。</font></font></strong></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/liveblocks/liveblocks/blob/main/assets/concepts/platform.png"><img src="/liveblocks/liveblocks/raw/main/assets/concepts/platform.png" alt="活块" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Liveblocks 的工作原理</font></font></h2><a id="user-content-how-liveblocks-works" class="anchor" aria-label="永久链接：Liveblocks 的工作原理" href="#how-liveblocks-works"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Liveblocks 的基础建立在四个核心概念之上：产品、房间、集成和平台。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">产品</font></font></h3><a id="user-content-products" class="anchor" aria-label="固定链接：产品" href="#products"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Liveblocks 是一款完全集成的解决方案，围绕核心产品构建而成，每个核心产品都支持协作体验的不同方面：
+ </font></font><a href="https://liveblocks.io/docs/products/presence" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Presence</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、
+ </font></font><a href="https://liveblocks.io/docs/products/broadcast" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Broadcast</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、
+ </font></font><a href="https://liveblocks.io/docs/products/document" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Document</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和
+</font></font><a href="https://liveblocks.io/docs/products/comments" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Comments</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（公开测试版）。您可以根据您的需求和想要构建的协作体验来决定要使用哪些产品。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">客房</font></font></h3><a id="user-content-rooms" class="anchor" aria-label="永久链接：房间" href="#rooms"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">房间是人们协作的数字空间。您可以要求用户经过</font></font><a href="https://liveblocks.io/docs/authentication" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">身份验证</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">才能与房间互动，并且每个房间都可以具有
+</font><font style="vertical-align: inherit;">与其关联的特定权限和</font></font><a href="https://liveblocks.io/docs/rooms/metadata" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">元数据。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">集成</font></font></h3><a id="user-content-integrations" class="anchor" aria-label="固定链接：集成" href="#integrations"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特定库和框架的集成可为您的产品添加 Liveblocks 支持的协作体验。集成旨在满足各种协作用例的需求，例如文本编辑器、评论、创意工具、表单等。</font></font></p>
+<ul dir="auto">
+<li><a href="https://liveblocks.io/docs/api-reference/liveblocks-client" rel="nofollow"><code>@liveblocks/client</code></a></li>
+<li><a href="https://liveblocks.io/docs/api-reference/liveblocks-react" rel="nofollow"><code>@liveblocks/react</code></a></li>
+<li><a href="https://liveblocks.io/docs/api-reference/liveblocks-redux" rel="nofollow"><code>@liveblocks/redux</code></a></li>
+<li><a href="https://liveblocks.io/docs/api-reference/liveblocks-zustand" rel="nofollow"><code>@liveblocks/zustand</code></a></li>
+<li><a href="https://liveblocks.io/docs/api-reference/liveblocks-yjs" rel="nofollow"><code>@liveblocks/yjs</code></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">平台</font></font></h3><a id="user-content-platform" class="anchor" aria-label="固定链接：平台" href="#platform"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Liveblocks 提供了一个完全托管的平台，该平台基于 WebSocket 边缘基础设施构建，可轻松扩展到数百万用户。该平台为您提供了一套强大的工具，例如我们的
+</font></font><a href="https://liveblocks.io/docs/api-reference/rest-api-endpoints" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">REST API</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、
+ </font></font><a href="https://liveblocks.io/docs/platform/webhooks" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">webhook</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、
+</font></font><a href="https://liveblocks.io/docs/platform/schema-validation" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">架构验证</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、分析等。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发人员</font></font></h2><a id="user-content-developers" class="anchor" aria-label="永久链接：开发人员" href="#developers"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://liveblocks.io/docs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font><a href="/liveblocks/liveblocks/blob/main/docs"><code>/docs</code></a></li>
+<li><a href="https://liveblocks.io/docs/guides" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font><a href="/liveblocks/liveblocks/blob/main/guides"><code>/guides</code></a></li>
+<li><a href="https://liveblocks.io/docs/tutorial/react/getting-started" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教程</font></font></a>
+<a href="/liveblocks/liveblocks/blob/main/tutorial"><code>/tutorial</code></a></li>
+<li><a href="https://liveblocks.io/examples" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例子</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-</font></font><a href="/liveblocks/liveblocks/blob/main/examples"><code>/examples</code></a></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/liveblocks/liveblocks/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以在此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阅读我们的发行说明
+</font><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区和支持</font></font></h2><a id="user-content-community-and-support" class="anchor" aria-label="永久链接：社区和支持" href="#community-and-support"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://github.com/liveblocks/liveblocks/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub 问题</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于记录&ZeroWidthSpace;&ZeroWidthSpace;您在使用 Liveblocks 时遇到的错误和错误。</font></font></li>
+<li><a href="https://liveblocks.io/discord" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">参与 Liveblocks 社区，提出问题并分享技巧。</font></font></li>
+<li><a href="https://liveblocks.io/contact" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过电子邮件</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">直接联系我们，获取支持和销售咨询。</font></font></li>
+<li><a href="https://x.com/liveblocks" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">X</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">接收更新、公告、博客文章和一般 Liveblocks 提示。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">根据 Apache License 2.0 许可，版权所有 © 2021-present
+ </font></font><a href="https://liveblocks.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Liveblocks</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="/liveblocks/liveblocks/blob/main/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">许可证</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以了解更多信息。</font></font></p>
+</article></div>
